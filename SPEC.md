@@ -1,10 +1,10 @@
 # Portfolio Website Specification
 
 ## Project Overview
-- **Project Name**: Pughalvanan C - Developer Portfolio
-- **Type**: Single-page React portfolio website
-- **Core Functionality**: Showcase developer skills, projects, and vision with modern futuristic UI
-- **Target Users**: Recruiters, potential employers, collaborators
+- **Project Name**: Pughalvanan C - UI/UX Designer Portfolio
+- **Type**: Single-page portfolio website
+- **Core Functionality**: Showcase UI/UX design skills, projects, and design vision with modern futuristic UI
+- **Target Users**: Recruiters, design agencies, potential employers, collaborators
 
 ## UI/UX Specification
 
